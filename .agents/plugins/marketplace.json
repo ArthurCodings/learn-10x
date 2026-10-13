@@ -1,0 +1,12 @@
+{
+  "name": "learn-10x",
+  "interface": { "displayName": "learn-10x" },
+  "plugins": [
+    {
+      "name": "learn-10x",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "learn-10x",
+  "version": "1.0.0",
+  "description": "用学习阶梯、核心筛选、自测、速查、资源过滤和费曼复述，让 AI 带你真正学会。",
+  "author": { "name": "ArthurCodings" },
+  "repository": "https://github.com/ArthurCodings/learn-10x",
+  "skills": ["."]
+}

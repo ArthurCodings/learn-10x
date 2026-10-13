@@ -1,0 +1,8 @@
+{
+  "name": "learn-10x",
+  "owner": { "name": "ArthurCodings" },
+  "description": "learn-10x 学习 Skill 与插件",
+  "plugins": [
+    { "name": "learn-10x", "source": "." }
+  ]
+}

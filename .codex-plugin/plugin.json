@@ -1,0 +1,19 @@
+{
+  "name": "learn-10x",
+  "version": "1.0.0",
+  "description": "用学习阶梯、核心筛选、自测、速查、资源过滤和费曼复述，让 AI 带你真正学会。",
+  "author": { "name": "ArthurCodings" },
+  "repository": "https://github.com/ArthurCodings/learn-10x",
+  "skills": "./skills",
+  "interface": {
+    "displayName": "learn-10x",
+    "shortDescription": "让 AI 带你真正学会",
+    "longDescription": "六个学习模块，可完整规划学习，也可单独进行逐题自测、费曼复述、资料筛选和复习。",
+    "developerName": "ArthurCodings",
+    "category": "Productivity",
+    "websiteURL": "https://github.com/ArthurCodings/learn-10x",
+    "defaultPrompt": [
+      "使用 learn-10x，围绕我的目标和时间预算安排学习，并通过逐题自测检查理解。"
+    ]
+  }
+}
